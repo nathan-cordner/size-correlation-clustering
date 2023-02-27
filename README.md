@@ -21,6 +21,7 @@ Hard coded parameters:
 
 RunImprovedAlg.java
 * Method: Ji et al. LP rounding for uniform constraints
+* Requires Google OR-Tools (developers.google.com/optimization)
 
 RunMaxKCorrelation.java
 * Method: Pivot, Vote, PLS, VLS for uniform constraints
@@ -30,6 +31,7 @@ RunMaxKTimed.java
 
 RunNonUniformAlg1.java
 * Method: both Ji et al. LP rounding algorithms for non-uniform constraints
+* Requires Google OR-Tools (developers.google.com/optimization)
 
 RunNonUniformCorrelation.java
 * Method: Pivot, Vote, PLS, VLS for non-uniform constraints
@@ -45,6 +47,7 @@ RunNonUniformTimedOrder.java
 
 RunPmAlg.java
 * Method: Puleo and Milenkovic LP rounding for uniform constraints
+* Requires Google OR-Tools (developers.google.com/optimization)
 
 
 Code Files
